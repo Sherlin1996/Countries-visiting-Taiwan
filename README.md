@@ -4,5 +4,3 @@
 * **使用[Flourish](https://flourish.studio/)工具製作**
 * **資料來源: [交通部觀光署統計資料庫](https://stat.taiwan.net.tw/)**
 * **[觀看儀錶板](https://public.flourish.studio/visualisation/16546116/)**
-* ## Preview 📄
-![image](https://hackmd.io/_uploads/SyEBLM6FT.png)
