@@ -4,4 +4,5 @@
 * **資料來源: [交通部觀光署統計資料庫](https://stat.taiwan.net.tw/)**
 * **[觀看儀錶板](https://public.flourish.studio/visualisation/16546116/)**
 ## :pencil2: Preview
-* ![image](flourish.PNG)
+* <img width="1000" alt="flourish" src="https://github.com/Sherlin1996/Countries-visiting-Taiwan/assets/106952827/bef61a98-909e-44fa-859a-acb12ff18588">
+
